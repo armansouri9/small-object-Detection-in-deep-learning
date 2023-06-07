@@ -1,2 +1,3 @@
-# small-object-Detection-in-deep-learning
-small object Detection in deep learning - birds
+README.md
+
+# Small Object Detection in Deep Learning
